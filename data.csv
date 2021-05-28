@@ -1,0 +1,15 @@
+Dia,Aspecto,Temperatura,Humidade,Vento,Jogar Tênis
+D1,Sol,Quente,Elevada,Fraco,Não
+D2,Sol,Quente,Elevada,Forte,Não
+D3,Nuvens,Quente,Elevada,Fraco,Sim
+D4,Chuva,Ameno,Elevada,Fraco,Sim
+D5,Chuva,Fresco,Normal,Fraco,Sim
+D6,Chuva,Fresco,Normal,Forte,Não
+D7,Nuvens,Fresco,Normal,Fraco,Sim
+D8,Sol,Ameno,Elevada,Fraco,Não
+D9,Sol,Fresco,Normal,Fraco,Sim
+D10,Chuva,Ameno,Normal,Forte,Sim
+D11,Sol,Ameno,Normal,Forte,Sim
+D12,Nuvens,Ameno,Elevada,Forte,Sim
+D13,Nuvens,Quente,Normal,Fraco,Sim
+D14,Chuva,Ameno,Elevada,Forte,Não
